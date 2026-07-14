@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akena\\OneDrive\\Desktop\\New folder (3)\\cse325-week-three-assignment\\BlazorApp1\\BlazorApp1.csproj": {}
+    "C:\\Users\\akena\\OneDrive\\Desktop\\BlazingPizza\\cse325-week-three-assignment\\BlazorApp1\\BlazorApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akena\\OneDrive\\Desktop\\New folder (3)\\cse325-week-three-assignment\\BlazorApp1\\BlazorApp1.csproj": {
+    "C:\\Users\\akena\\OneDrive\\Desktop\\BlazingPizza\\cse325-week-three-assignment\\BlazorApp1\\BlazorApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akena\\OneDrive\\Desktop\\New folder (3)\\cse325-week-three-assignment\\BlazorApp1\\BlazorApp1.csproj",
+        "projectUniqueName": "C:\\Users\\akena\\OneDrive\\Desktop\\BlazingPizza\\cse325-week-three-assignment\\BlazorApp1\\BlazorApp1.csproj",
         "projectName": "BlazorApp1",
-        "projectPath": "C:\\Users\\akena\\OneDrive\\Desktop\\New folder (3)\\cse325-week-three-assignment\\BlazorApp1\\BlazorApp1.csproj",
+        "projectPath": "C:\\Users\\akena\\OneDrive\\Desktop\\BlazingPizza\\cse325-week-three-assignment\\BlazorApp1\\BlazorApp1.csproj",
         "packagesPath": "C:\\Users\\akena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akena\\OneDrive\\Desktop\\New folder (3)\\cse325-week-three-assignment\\BlazorApp1\\obj\\",
+        "outputPath": "C:\\Users\\akena\\OneDrive\\Desktop\\BlazingPizza\\cse325-week-three-assignment\\BlazorApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\akena\\AppData\\Roaming\\NuGet\\NuGet.Config"
